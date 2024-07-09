@@ -7,8 +7,8 @@ import react from '@vitejs/plugin-react'
 // })
 // vite.config.js
 export default {
-  build: {
-    outDir: 'dist'
-  },
-  base: '/'
-}
+  // build: {
+  //   outDir: 'dist'
+  // },
+  base: './',
+};
