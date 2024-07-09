@@ -10,5 +10,5 @@ export default {
   // build: {
   //   outDir: 'dist'
   // },
-  base: '/frontend',
+  base: './frontend',
 };
