@@ -7,6 +7,7 @@ const Calculation = () => {
   const [total, setTotal] = useState(0)
   const [data, setData] = useState([])
 
+  
   useEffect(() => {
     const fetchDataAndCalculateExpense = async () => {
       try {
